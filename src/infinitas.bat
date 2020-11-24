@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy RemoteSigned %userprofile%\Documents\WindowsPowerShell\infinitas.ps1
